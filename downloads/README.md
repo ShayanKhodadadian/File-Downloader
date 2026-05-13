@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [googlechromestandaloneenterprise64](./googlechromestandaloneenterprise64)
+- [logs](./logs)
 
 ---
 
